@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 195587147
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bfdi
+      Dependencies:
+        Dependency_0: mae
+    Info_1:
+      Name: mae
+      Dependencies: {}

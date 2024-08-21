@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1258753411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 313df90a544fe9962cbdbee6ec8d7fb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sky_Gradient_webp.png
+- Assets/latest.png
+Dependencies: []

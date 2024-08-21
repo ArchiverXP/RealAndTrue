@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 45306761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7780f3c5bc318ecd0891c39093546dea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/bfdi.unity
+Dependencies:
+- C:/Users/Allison/Documents/OutThere/Assets/ABs/mae
